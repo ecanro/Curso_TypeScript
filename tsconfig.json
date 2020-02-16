@@ -7,7 +7,7 @@
       "sourceMap": true
   },
   "include": [
-      "src/**/*"
+      "src/**/*", "src/section2"
   ],
   "exclude": [
       "node_modules",
