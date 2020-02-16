@@ -1,1 +1,1 @@
-Practicas  Curso TypeScript 2020
+Practicas Curso TypeScript 2020
