@@ -4,4 +4,3 @@ console.log(mi_nota + mi_edad);
 console.log(mi_nota - mi_edad);
 console.log(mi_nota * mi_edad);
 console.log(mi_nota / mi_edad);
-//# sourceMappingURL=numbers.js.map

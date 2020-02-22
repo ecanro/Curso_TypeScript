@@ -3,4 +3,3 @@ function saludar(nombre) {
 }
 var myName = "Edgar Canro";
 var result = saludar(myName);
-//# sourceMappingURL=helloworld.js.map

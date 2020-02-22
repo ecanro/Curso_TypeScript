@@ -1,4 +1,3 @@
-//para tipos undefined o null
 var inutil = undefined;
 var empty = null;
 var resultado = "Datos Cargados";
